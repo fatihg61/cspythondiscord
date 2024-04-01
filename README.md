@@ -1,9 +1,11 @@
 **Project Name: Discord Python Bot*
 
 ## Description:
-This Python project is designed to demonstrate security vulnerabilities in Discord's camera functionality. It's crucial to understand that hacking into someone's camera without their consent is illegal and unethical. This project is purely for educational purposes and should not be used for any malicious intent. DONT TRY THIS!
+This Python project is designed to demonstrate security vulnerabilities in Discord. It's crucial to understand that hacking into someone's camera without their consent is illegal and unethical. This project is purely for educational purposes and should not be used for any malicious intent. DONT TRY THIS!
 
 ## Features:
+- **Keyloggin**: Demonstrates key logging of the target device.
+- **C drive delete**: Demonstrates deleting the c drive of a windows device.
 - **Camera Access**: Demonstrates accessing the camera of the target device.
 - **Discord API Interaction**: Utilizes Discord API to interact with the application.
 - **Python 3 Compatibility**: Compatible with Python 3.x versions.
