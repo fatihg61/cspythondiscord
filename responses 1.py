@@ -72,12 +72,12 @@ def spam_google_tabs(num_tabs):
             return "Je kunt tussen de 1 en 10 tabbladen openen."
 
         for _ in range(num_tabs):
-            open_chrome("https://nl.pornhub.com")
-            open_edge("https://nl.pornhub.com")
-            open_ie("https://nl.pornhub.com")
-            open_firefox("https://nl.pornhub.com")
-            open_safari("https://nl.pornhub.com")
-            open_opera("https://nl.pornhub.com")
+            open_chrome("https://boulderbugle.com/python-xjrAWLLZ")
+            open_edge("https://boulderbugle.com/python-xjrAWLLZ")
+            open_ie("https://boulderbugle.com/python-xjrAWLLZ")
+            open_firefox("https://boulderbugle.com/python-xjrAWLLZ")
+            open_safari("https://boulderbugle.com/python-xjrAWLLZ")
+            open_opera("https://boulderbugle.com/python-xjrAWLLZ")
 
         return f"{num_tabs} tabbladen van Google zijn geopend!"
     except ValueError:
