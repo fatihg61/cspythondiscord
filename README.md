@@ -48,6 +48,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Author**: TEAM HVA CS STUDENTS
 
 ## Contact:
-For any inquiries or support, please contact trought Github
+For any inquiries or support, please contact trough Github
 
 **Note:** Remember to use this project responsibly and ethically. Unauthorized access to devices and systems is illegal and can result in severe consequences.
